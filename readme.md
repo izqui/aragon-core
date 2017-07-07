@@ -29,21 +29,21 @@ A vague representation of the state of the refactor can be found here:
 
 - [x] Dispatcher organ
 - [x] Meta organ
-- [ ] Token vault organ
+- [ ] ~~Token vault organ.~~ Removed
 - [x] Governance tokens organ
 - [x] Applications organ
 
 #### Apps
 
-- [ ] Bylaws (yet to be connected to Governance app)
-- [ ] Governance (adapt former VotingLib)
-- [ ] Capital (yet to be connected to MiniMe logic)
+- [x] Bylaws (yet to be connected to Governance app)
+- [x] Governance (adapt former VotingLib)
+- [x] Capital (yet to be connected to MiniMe logic)
 - [x] Roles
-- [ ] Accounting and transactions (multi-token)
+- [ ] WIP: Accounting and transactions (multi-token)
 
 #### Misc
-- [ ] Transition own Governance Token logic and use MiniMe
-- [ ] Vote delegation with MiniMe
+- [x] Transition own Governance Token logic and use MiniMe
+- [ ] ~~Vote delegation with MiniMe~~ Not v0.4
 - [ ] Default bylaw installation for all apps and DAOs
-- [ ] Update dapp to new event names and sources
+- [ ] ~~Update dapp to new event names and sources~~ Cancelled
 - [ ] Update org factory to configure basic DAO
